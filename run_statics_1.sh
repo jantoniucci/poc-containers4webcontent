@@ -1,0 +1,1 @@
+docker run -d --name statics1 -p 81:80 jantoniucci/statics1
